@@ -1,5 +1,5 @@
 ## Hey, I'm Sahil 😎
-<p align="center"><a href="https://github.com/rooted-cyber"><img src="https://telegra.ph/file/68153ee7e7b4382f7d38c.jpg" alt="Bt">
+<p align="center"><a href="https://github.com/rooted-cyber"><img src="Ash_v2.png" alt="Bt">
   
 ## <p align="center"> Know More About Us
   
