@@ -30,7 +30,7 @@
 
 <a href="https://github.com/sahilteamx/Ti-Script"><img title="Ti-Script" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=Ti-Script&theme=highcontrast"></a>
 <a href="https://github.com/sahilteamx/Create_Read-More"><img title="Create_Read-More" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=Create_Read-More&theme=vision-friendly-dark"></a>
-<a href="https://github.com/sahilteamx/Random-Theme"><img title="Random-Theme" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=Random-Theme&theme=highcontrast"></a>
+<a href="https://github.com/Rooted-cyber/Random-Theme"><img title="Random-Theme" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=Random-Theme&theme=highcontrast"></a>
 </p>
 </p>
 
