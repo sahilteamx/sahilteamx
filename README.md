@@ -25,7 +25,7 @@
 <a href="https://github.com/sahilteamx/Metasploit-Installation"><img title="Metasploit-Installation" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=Metasploit-Installation&theme=radical"></a>
 <a href="https://github.com/sahilteamx/I-Location"><img title="I-Location" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=I-Location&theme=highcontrast"></a>
 <a href="https://github.com/sahilteamx/Termux-Test"><img title="Termux-Test" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=Termux-Test&theme=vision-friendly-dark"></a>
-<a href="https://github.com/sahilteamx/Termux-New-Look"><img title="Termux-New-Look" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=Termux-New-Look&theme=highcontrast"></a>
+<a href="https://github.com/Rooted-cyber/Termux-New-Look"><img title="Termux-New-Look" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=Termux-New-Look&theme=highcontrast"></a>
 
 
 <a href="https://github.com/sahilteamx/Ti-Script"><img title="Ti-Script" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilteamx&repo=Ti-Script&theme=highcontrast"></a>
