@@ -1,4 +1,20 @@
-## Hey, I'm Sahil 😎
+## Hey, I'm Sahil 😈🤟
+~_*I'm Sahil*_~
+
+~_*Nickname ~_*I'm Sahil*_~
+
+~_*Nickname 𓆰𝘼𝘀𝙝𓆪⁩*_~
+
+~_*Call me Baby*_~
+
+~_*Age se kya lena dena bf banana hai😂*_~
+
+~_*Birthday 01 October*_~
+
+~_*From UP*_~
+
+ ~_*Gender Laonda (Male)*_~
+
 <p align="center"><a href="https://github.com/sahilteamx"><img src="Ash_v2.png" alt="Bt">
   
 ## <p align="center"> Know More About Us
