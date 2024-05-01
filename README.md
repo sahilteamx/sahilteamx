@@ -5,8 +5,6 @@
 
 ~_*Nickname 𓆰𝘼𝘀𝙝𓆪⁩*_~
 
-~_*Call me Baby*_~
-
 ~_*Age se kya lena dena bf banana hai😂*_~
 
 ~_*Birthday 01 October*_~
