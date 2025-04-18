@@ -18,6 +18,31 @@
 ## <p align="center"> Know More About Us
   
 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+
+
+
+
+<br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=nishant-Tiwari24&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nishant-Tiwari24&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-Tiwari24&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+  <br/>
+
+<br/><br/>
+
+
 </p>
   
 <p align="center"><a href="https://github.com/sahilteamx"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=sahilteamx&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
@@ -29,34 +54,4 @@
 </p>
 
 
-<p align="center">
-<a href="https://github.com/rooted-cyber/Metasploit-Installation"><img title="Metasploit-Installation" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=Metasploit-Installation&theme=radical"></a>
-<a href="https://github.com/rooted-cyber/I-Location"><img title="I-Location" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=I-Location&theme=highcontrast"></a>
-<a href="https://github.com/rooted-cyber/Termux-Test"><img title="Termux-Test" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=Termux-Test&theme=vision-friendly-dark"></a>
-<a href="https://github.com/rooted-cyber/Termux-New-Look"><img title="Termux-New-Look" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=Termux-New-Look&theme=highcontrast"></a>
-
-
-<a href="https://github.com/rooted-cyber/Ti-Script"><img title="Ti-Script" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=Ti-Script&theme=highcontrast"></a>
-<a href="https://github.com/rooted-cyber/Create_Read-More"><img title="Create_Read-More" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=Create_Read-More&theme=vision-friendly-dark"></a>
-<a href="https://github.com/rooted-cyber/Random-Theme"><img title="Random-Theme" src="https://github-readme-stats.vercel.app/api/pin/?username=rooted-cyber&repo=Random-Theme&theme=highcontrast"></a>
-</p>
-</p>
-
-<p align="center">
-<a href="https://github.com/rooted-cyber"><img title="rooted-cyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooted-cyber&layout=compact"></a>
-</p>
-<p align="center"> Copyright of Noob Hackers
-
-
-- Wa
-
-<p align="center">
-<a href="https://github.com/sahilteamx"><img title="sahilteamx" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilteamx&layout=compact"></a>
-</p>
-<p align="center"> Copyright of Noob Hackers
-
-
-- Wakatime card
-
-[![sahilteamx wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sahilteamx)](https://github.com/anuraghazra/github-readme-stats)
 
